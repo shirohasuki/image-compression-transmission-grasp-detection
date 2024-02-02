@@ -13,5 +13,5 @@ Clone this repository
 git clone https://github.com/shirohasuki/image-compression-transmission-grasp-detection.git
 ```
 
-Image Compression Part: [README.md](https://github.com/shirohasuki/image-compression-transmission-grasp-detection/blob/main/compression/README.md)<\br>
+Image Compression Part: [README.md](https://github.com/shirohasuki/image-compression-transmission-grasp-detection/blob/main/compression/README.md)</br>
 Grasp Detection Part: [README.md](https://github.com/shirohasuki/image-compression-transmission-grasp-detection/blob/b32708429ab1266226ce4ad34ed88d70076db968/grasp_detection/README.md)
